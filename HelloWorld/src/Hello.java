@@ -16,5 +16,7 @@ public class Hello {
 		System.out.println("master branch, B");
 	}
 
-	public void methodC() { }
+	public void methodC() {
+		System.out.println("master branch, C");
+	}
 }
