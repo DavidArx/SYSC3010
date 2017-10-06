@@ -9,8 +9,9 @@ public class Hello {
 		hello.methodC();
 	}
 
-	public void methodA( ) { }
-
+	public void methodA( ) {
+		System.out.println("master branch, david");
+	 }
 	public void methodB() { }
 
 	public void methodC() { }
