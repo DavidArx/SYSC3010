@@ -12,7 +12,9 @@ public class Hello {
 	public void methodA( ) {
 		System.out.println("master branch, david");
 	 }
-	public void methodB() { }
+	public void methodB() {
+		System.out.println("master branch, B");
+	}
 
 	public void methodC() { }
 }
