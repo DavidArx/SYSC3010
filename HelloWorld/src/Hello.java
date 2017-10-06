@@ -9,7 +9,9 @@ public class Hello {
 		hello.methodC();
 	}
 
-	public void methodA( ) { }
+	public void methodA( ) {
+		System.out.println("This is David");
+	}
 
 	public void methodB() { }
 
